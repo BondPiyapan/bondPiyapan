@@ -8,14 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bondpiyapan" alt="bondpiyapan" /></a> </p>
 
-- 🔭 I’m currently working on **Brightman platform mobile**
-
-- 🌱 I’m currently learning **Node,Flutter**
-
-- 📝 I regularly write articles on [https://blog.foxbith.com/build-mobile-application-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-expo-application-services-eas-d41a20c7f7d5](https://blog.foxbith.com/build-mobile-application-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-expo-application-services-eas-d41a20c7f7d5)
-
-- 📫 How to reach me **piyapan@foxbith.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
